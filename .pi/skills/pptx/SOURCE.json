@@ -1,0 +1,10 @@
+{
+  "source_repo": "https://github.com/anthropics/skills",
+  "source_path": "skills/pptx",
+  "ref": "main",
+  "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+  "commit_date": "2026-11-16T14:22:47Z",
+  "installed_at": "2026-11-17",
+  "method": "codeload tarball (commit archive), extracted skills/pptx only",
+  "dependencies_installed": false
+}

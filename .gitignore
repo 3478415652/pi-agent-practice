@@ -1,0 +1,17 @@
+# 依赖与临时文件
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Pi 本地缓存与凭据（绝不可提交）
+.auth.json
+auth.json
+.pi/npm/
+.pi/git/
